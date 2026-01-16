@@ -14,7 +14,7 @@ Everything is developed from scratch.
 
 ### Final Circuit
 This is my game project.
-Repository: [Final Circuit on Roblox](https://www.roblox.com/games/73972141767658/Final-Circuit)
+Game: [Final Circuit on Roblox](https://www.roblox.com/games/73972141767658/Final-Circuit)
 
 ### MasterVoice
 A chat and voice app powered by WebRTC.
